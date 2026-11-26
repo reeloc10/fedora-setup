@@ -17,6 +17,11 @@ Minimal Fedora environment setup, bootstrap runbooks, and projects checklists.
 - [ ] **Infinite Neovim features**
 - [ ] **Blender tutorials**
 - [ ] **Ardour 9 tutorials**
+- [ ] **Generate own background music**
+- [ ] **Generate own badges**
+- [ ] **Generate own emojis**
+- [ ] **Generate own static PNG model**
+- [ ] **Add daily redeem count to reeloc10bot (requires affiliate status)**
 
 ### Stretch Goals
 - [ ] **Zig support in Neovim**
