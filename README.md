@@ -31,3 +31,9 @@ Minimal Fedora environment setup, bootstrap runbooks, and projects checklists.
 ## Bootstrap Notes
 
 * [SSH & GitHub Setup](./SSH.md)
+
+---
+
+## Streaming Notes
+
+* [Twitch Streaming Setup](./TWITCH.md)
