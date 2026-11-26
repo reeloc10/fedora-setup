@@ -12,6 +12,7 @@ Minimal Fedora environment setup, bootstrap runbooks, and projects checklists.
 
 ### Core Features
 - [ ] **More source control features**
+- [ ] **Markdown support refactoring with libtree-sitter-markdown**
 - [ ] **Neovim tutorial**
 - [ ] **Infinite Neovim features**
 - [ ] **Blender tutorials**
