@@ -1,6 +1,6 @@
 # fedora-setup
 
-Minimal Fedora environment setup, bootstrap runbooks, and projects checklists.
+Minimal Fedora 45 environment setup, bootstrap runbooks, and projects checklists.
 
 ## Repositories
 
@@ -38,3 +38,9 @@ Minimal Fedora environment setup, bootstrap runbooks, and projects checklists.
 ## Streaming Notes
 
 * [Twitch Streaming Setup](./TWITCH.md)
+
+---
+
+## System Notes
+
+* [System Setup](./SYSTEM.md)
