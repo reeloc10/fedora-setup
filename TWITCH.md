@@ -7,3 +7,7 @@
 ## Video Constraints
 
 * **Supported resolution:** `720p` only (`1280x720`)
+
+## OBS Setup and Workarounds
+
+* **Recovering from OBS echo:** Run `systemctl --user restart wireplumber pipewire pipewire-pulse` while OBS is closed.
