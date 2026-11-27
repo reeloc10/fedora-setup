@@ -13,6 +13,7 @@ Minimal Fedora environment setup, bootstrap runbooks, and projects checklists.
 ### Core Features
 - [ ] **More source control features**
 - [ ] **Markdown support refactoring with libtree-sitter-markdown**
+- [ ] **Wayland clipboard integration (`wl-clipboard`)** — pipe terminal output via `cat lua_dev.lua | wl-copy` and sync Neovim's `+` register (`"+y`, `"+p`)
 - [ ] **Neovim tutorial**
 - [ ] **Infinite Neovim features**
 - [ ] **Blender tutorials**
