@@ -13,9 +13,9 @@ unshare --net --user --map-root-user <command>
 ### Verification
 
 ```bash
-python3 urllib_inspector.py "https://www.google.com"
+python3 urllib_inspector.py "https://www.google.com" > /dev/shm/out
 # Expected: [*] Request successful! (200 OK)
 
-unshare --net --user --map-root-user python3 urllib_inspector.py "https://www.google.com"
+unshare --net --user --map-root-user python3 urllib_inspector.py "https://www.google.com" > /dev/shm/out
 # Expected: [!] Network or URL Error: [Errno 101] Network is unreachable
 ```
